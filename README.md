@@ -1,19 +1,165 @@
-# 💫 About Me:
-I’m **Kata Nithin**, a final-year **Computer Science Engineering** student who enjoys building practical, real-world solutions through code. I’m curious, self-driven, and constantly exploring new technologies to learn, improve, and grow as a problem-solver.<br>
+# Hi 👋, I'm Kata Nithin
 
+### AI Engineer • Cloud Enthusiast • Full Stack Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithin_kata) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-kata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithinkata29@gmail.com) 
+Final-year Computer Science Engineering student passionate about building practical AI-powered applications, scalable cloud solutions, and real-world software products.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nithin-kata&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nithin-kata&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-kata&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy transforming ideas into production-ready systems while continuously exploring Artificial Intelligence, Machine Learning, Cloud Computing, and Modern Web Technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nithin-kata&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 Final Year Computer Science Engineering Student
+
+🤖 Building AI-powered solutions using LLMs, Generative AI, Machine Learning, and Computer Vision
+
+☁️ AWS Cloud Practitioner Certified with hands-on experience in cloud deployment and scalable architectures
+
+💡 Passionate about solving real-world problems through technology
+
+🌱 Currently exploring:
+
+* Agentic AI Systems
+* Generative AI Applications
+* Cloud-Native Development
+* MLOps & AI Deployment
+* Full Stack Product Engineering
+
+📫 Reach me at: **[nithinkata29@gmail.com](mailto:nithinkata29@gmail.com)**
+
+---
+
+## 🏆 Highlights & Achievements
+
+### ☁️ AWS Achievements
+
+* AWS Certified Cloud Practitioner
+* Experience deploying applications on AWS Cloud
+* Hands-on knowledge of cloud infrastructure, storage, compute, and security services
+* Built and deployed scalable web applications using cloud platforms
+
+### 🤖 AI & Machine Learning
+
+* Developed Machine Learning and Computer Vision projects using Python
+* Built AI-powered applications using Large Language Models (LLMs)
+* Experience with Generative AI workflows and prompt engineering
+* Worked on data analysis and predictive modeling projects
+* Exploring Agentic AI systems and autonomous workflows
+
+### 💻 Development Experience
+
+* Full Stack Development using React, Next.js, Node.js, Flask, and Django
+* Mobile App Development with Flutter
+* Cloud Deployment using AWS, Azure, Render, Vercel, and Netlify
+* Database Design using MongoDB, MySQL, and Firebase
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+`Python` `Java` `JavaScript` `C` `Dart` `R`
+
+### AI / ML / Data Science
+
+`Machine Learning`
+`Generative AI`
+`OpenCV`
+`NumPy`
+`Pandas`
+`Matplotlib`
+`Plotly`
+
+### Frontend Development
+
+`HTML`
+`CSS`
+`JavaScript`
+`React`
+`Next.js`
+`Tailwind CSS`
+
+### Backend Development
+
+`Node.js`
+`Express.js`
+`Flask`
+`Django`
+
+### Mobile Development
+
+`Flutter`
+
+### Cloud & DevOps
+
+`AWS`
+`Azure`
+`Google Cloud`
+`Docker`
+`Kubernetes`
+`Jenkins`
+`Nginx`
+
+### Databases
+
+`MongoDB`
+`MySQL`
+`Firebase`
+
+### Tools & Platforms
+
+`Git`
+`GitHub`
+`Figma`
+`Canva`
+`Photoshop`
+`Lightroom`
+`Premiere Pro`
+
+---
+
+## 🚀 Featured Areas
+
+### Generative AI
+
+Building intelligent applications powered by Large Language Models, AI Agents, and Retrieval-Augmented Generation systems.
+
+### Cloud Computing
+
+Designing and deploying scalable solutions using AWS cloud infrastructure and modern DevOps practices.
+
+### Full Stack Development
+
+Creating end-to-end applications from intuitive user interfaces to scalable backend systems.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nithin-kata&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin-kata&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=nithin-kata&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/nithin-kata)
+
+[Instagram](https://instagram.com/nithin_kata)
+
+Email: **[nithinkata29@gmail.com](mailto:nithinkata29@gmail.com)**
+
+---
+
+### 💡 Personal Motto
+
+*"Building technology that solves real problems, creates value, and continuously pushes the boundaries of learning."*
