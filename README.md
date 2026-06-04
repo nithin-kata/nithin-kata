@@ -21,7 +21,7 @@ I enjoy transforming ideas into production-ready systems while continuously expl
 - Cloud-Native Development
 - MLOps & AI Deployment
 - Full Stack Product Engineering
-- 
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithin_kata) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-kata) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nithinkata29@gmail.com) 
 
