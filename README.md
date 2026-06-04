@@ -30,32 +30,6 @@ I enjoy transforming ideas into production-ready systems while continuously expl
 
 ---
 
-## 🏆 Highlights & Achievements
-
-### ☁️ AWS Achievements
-
-* AWS Certified Cloud Practitioner
-* Experience deploying applications on AWS Cloud
-* Hands-on knowledge of cloud infrastructure, storage, compute, and security services
-* Built and deployed scalable web applications using cloud platforms
-
-### 🤖 AI & Machine Learning
-
-* Developed Machine Learning and Computer Vision projects using Python
-* Built AI-powered applications using Large Language Models (LLMs)
-* Experience with Generative AI workflows and prompt engineering
-* Worked on data analysis and predictive modeling projects
-* Exploring Agentic AI systems and autonomous workflows
-
-### 💻 Development Experience
-
-* Full Stack Development using React, Next.js, Node.js, Flask, and Django
-* Mobile App Development with Flutter
-* Cloud Deployment using AWS, Azure, Render, Vercel, and Netlify
-* Database Design using MongoDB, MySQL, and Firebase
-
----
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
