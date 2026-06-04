@@ -38,5 +38,3 @@ Full Stack Product Engineering
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nithin-kata&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->--------------------> this is my github profile home page . Redesign the entire thing with the same personal details . In Addition to my current about section , put highlighting the AWS and AI Achievements
